@@ -1,5 +1,6 @@
 <svelte:head>
     <title>amber's abode</title>
+    <meta name="description" content="amber's little internet home">
 </svelte:head>
 
 <h1>amber's abode</h1>
