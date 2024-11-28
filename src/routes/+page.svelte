@@ -15,7 +15,7 @@
 
 <section>
     <h2>who am i?</h2>
-    <p>oh, i never introduced myself! i'm sorry, that was rude of me. i'm amber and i'm a 17 y/o girl living in leicester, england. occasionally i make web pages (like this one), but i prefer to make apps for chat platforms like slack and discord, random python scripts, backends or desktop apps with tauri</p>
+    <p>oh, i never introduced myself! i'm sorry, that was rude of me. i'm amber and i'm a 17 y/o girl living in leicester, england. i study immersive media which includes xr development, graphics, film, digital art and more. i do volunteering for hack club too - keeping the community a nice place to be</p>
 </section>
 
 <section>
