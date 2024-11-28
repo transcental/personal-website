@@ -68,8 +68,12 @@ h1 {
     text-align: center;
 }
 
+h2, h3, section {
+    margin: 0 0;
+}
+
 section {
-    padding: 20px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -78,7 +82,7 @@ section {
 }
 
 section * {
-    max-width: 500px;
+    max-width: 600px;
 }
 
 a {
