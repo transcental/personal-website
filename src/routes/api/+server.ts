@@ -5,7 +5,7 @@ export const GET: RequestHandler = () => {
         {
             city: "Leicester",
             state: "Leicestershire",
-            country: "UK",
+            country: "GB",
             slack_id: "U054VC2KM9P",
             extra: "hi im amber idk what to put here"
         }
